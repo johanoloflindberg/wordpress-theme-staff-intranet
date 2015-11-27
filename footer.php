@@ -13,6 +13,13 @@
  */
 include_once( ABSPATH . 'wp-admin/includes/plugin.php' );
 ?>
+
+    <div id="staffbar">
+      <div class="container">
+            howdy, this is the top bar, we are calling it #staffbar
+      </div>
+    <div>
+          
       <div class="footer" id="contact">
         <div class="container">
           <div class="row">
