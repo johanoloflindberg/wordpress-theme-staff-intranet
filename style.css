@@ -13,3 +13,9 @@
  GitHub Theme URI: wrdsb/wordpress-theme-staff-intranet
  GitHub Branch: master
 */
+
+#staffbar { /*contains permanent links to the core staff functions */
+ background-color: #a0cf67;
+ color: #666;
+ border-bottom: 3px solid #7ac143;
+}
